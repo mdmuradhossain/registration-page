@@ -1,0 +1,25 @@
+body {
+  overflow: hidden;
+}
+
+.content {
+  height: 75vh;
+}
+
+.btn {
+  width: 150px;
+  height: 49px;
+  outline: none;
+  border: none;
+  border-radius: 48px;
+  background-color: #20dbc2;
+  color: #fff;
+  text-transform: uppercase;
+  margin: 10px 0;
+  font-weight: 500;
+  transition: all 0.5s ease;
+}
+
+.btn:hover {
+  background-color: #00bfa6;
+}
